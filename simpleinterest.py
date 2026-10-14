@@ -1,7 +1,7 @@
 import sys
 
 def simple_interest(principle, interest, time):
-    return(principle*interest*time)/100
+    return (principle*interest*time)/100
 
 if ___name___=="__main__":
     p = int(sys.argv[1])
